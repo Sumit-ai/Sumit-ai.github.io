@@ -1,4 +1,4 @@
-## Here is the short description of my all repository
+## Here is the short description of my all repositories
 
 #### I have devided types of my repositories into three parts:
 - **Projects.** 
