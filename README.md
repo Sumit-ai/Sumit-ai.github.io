@@ -12,7 +12,8 @@ My projects repositories are:
 - **SPC Chart:** This repository contains python code for SPC chart, this code can be found [here](http://sumit-ai.me/SPC-chart-/) 
 
 ### Research Papers
-- **Oxymeter paper:** This repository contains my oximeter research paper, information of the paper can be found [here](https://github.com/Sumit-ai/Oximeter-paper-/tree/master) 
+- **Oximeter paper:** This repository contains my oximeter research paper, information of the paper can be found [here](https://github.com/Sumit-ai/Oximeter-paper-/tree/master) 
+- **Hemodialysis Maintenance Paper:** This repository contains my maintenance paper research paper, information of the paper can be found [here](http://ein.org.pl/2019-02-17) 
 
 
 ### Readings
