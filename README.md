@@ -1,3 +1,4 @@
+<img src="pic.png" width="800" />
 ## Here is the short description of my all repositories
 
 #### I have devided types of my repositories into three parts:
@@ -11,7 +12,8 @@ My projects repositories are:
 - **SPC Chart:** This repository contains python code for SPC chart, this code can be found [here](http://sumit-ai.me/SPC-chart-/) 
 
 ### Research Papers
-- **SPC Chart:** This repository contains my oximeter research paper, information of the paper can be found [here](https://github.com/Sumit-ai/Oximeter-paper-/tree/master) 
+- **Oxymeter paper:** This repository contains my oximeter research paper, information of the paper can be found [here](https://github.com/Sumit-ai/Oximeter-paper-/tree/master) 
 
 
 ### Readings
+- My reading repository contains the my reading list, research papers i have read the coureses i am taking or planning to take.
