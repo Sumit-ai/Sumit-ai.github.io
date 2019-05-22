@@ -1,4 +1,4 @@
-<img src="my.jpg" align="center" width="150" />  Hi I am sumit Here is the short description of my all repositories
+<img src="my.jpg" align="left" width="150" />  Hi I am sumit Here is the short description of my all repositories
 
 #### I have devided types of my repositories into three parts:
 - **Projects.** 
