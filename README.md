@@ -1,4 +1,4 @@
-<img src="my.jpg" width="800" />
+<img src="my.jpg" width="100" />
 ## Here is the short description of my all repositories
 
 #### I have devided types of my repositories into three parts:
