@@ -1,4 +1,5 @@
-<img src="my.jpg" align="left" width="150" />  Hi I am sumit Here is the short description of my all repositories
+<img src="my.jpg" align="left" width="150" />  
+##### Hi I am Sumit, I am a curious yet organized person and get motivated from my achievements. I often keep myself occupied reading articles and intend to tackle a challenge technically that can benefit humanity on a mass scale and have ability to deal with multiple projects simultaneously. Here is the short description of my all repositories
 
 #### I have devided types of my repositories into three parts:
 - **Projects.** 
@@ -16,3 +17,5 @@ My projects repositories are:
 
 ### Readings
 - My reading repository contains the my reading list, research papers i have read the coureses i am taking or planning to take.
+
+
