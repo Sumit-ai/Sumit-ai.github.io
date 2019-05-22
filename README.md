@@ -17,6 +17,6 @@ My projects repositories are:
 
 
 ### Readings
-- My reading repository contains the my reading list, research papers i have read the coureses i am taking or planning to take.
+- My reading repository contains the my reading list, research papers i have read the coureses i am taking or planning to take. Please click [here](http://sumit-ai.me/Machine-learning-Readings/) to see the full list. 
 
 
