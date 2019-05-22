@@ -1,4 +1,4 @@
-## My Resume is based on my repositories
+## Here is the short description of my all repository
 
 #### I have devided types of my repositories into three parts:
 - **Projects.** 
