@@ -17,7 +17,7 @@ My projects repositories are:
 - **Pulse Oximeter for Low SpO2 Level Detection Using Discrete Time Signal Processing Algorithm:** This repository contains my oximeter research paper, information of the paper can be found **[here](https://github.com/Sumit-ai/Oximeter-paper-/tree/master)** 
 - **Optimal maintenance strategy on medical instruments used for haemodialysis process:** This repository contains my maintenance paper research paper, information of the paper can be found **[here](http://ein.org.pl/2019-02-17)** 
 - **Automatic Fire Initiated Braking And Alert System For Trains:** This paper demonstrates the technology that can save many lives, when a running train catches fire. The paper can be found **[here](https://ieeexplore.ieee.org/abstract/document/7306741)** 
-- **An Intelligent Terrain Profiling Embedded System for Underwater Applications:** This paper demonstrates the technology that can create the . The paper can be found **[here](https://ieeexplore.ieee.org/abstract/document/7306741)** 
+- **An Intelligent Terrain Profiling Embedded System for Underwater Applications:** This paper demonstrates the technology that can create the . The paper can be found **[here](https://ieeexplore.ieee.org/document/8480329)** 
 
 
 
