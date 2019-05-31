@@ -9,7 +9,9 @@
 ### Projects
 My projects repositories are: 
 - **Device simulation:** This repository contains python code for diffusion of Boron in Silicon wafer. This was my class porject please click **[here](http://sumit-ai.me/device-simulation/)** 
+
 <img align="center" src="ma.png"  width="200" />
+
 - **SPC Chart:** This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-chart-/)** 
 - **Deep Learning:** This repository contains my practice python code for machine learning and deep learning. Please find the repository **[here](http://sumit-ai.me/Deep-Learning-/)** 
 
