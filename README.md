@@ -10,10 +10,11 @@
 My projects repositories are: 
 - **Device simulation:** This repository contains python code for diffusion of Boron in Silicon wafer. This was my class porject please click **[here](http://sumit-ai.me/device-simulation/)** 
 
-<img align="center" src="m.gif"  width="150" />   <img align="center" src="m.gif"  width="150" />   <img align="center" src="m.gif"  width="150" />
+<img align="center" src="m.gif"  width="150" />   
 
 - **SPC Chart:** This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-chart-/)** 
 - **Deep Learning:** This repository contains my practice python code for machine learning and deep learning. Please find the repository **[here](http://sumit-ai.me/Deep-Learning-/)** 
+- **MIT: Machine Learning with Python-From Linear Models to Deep Learning** This repository contains MIT calss projects that i completed while i was taking online classes from MIT at EDX. Please find the repository **[here](http://sumit-ai.me/Deep-Learning-/)** 
 
 ### Research Papers
 - **Pulse Oximeter for Low SpO2 Level Detection Using Discrete Time Signal Processing Algorithm:** This repository contains my oximeter research paper, information of the paper can be found **[here](https://github.com/Sumit-ai/Oximeter-paper-/tree/master)** 
