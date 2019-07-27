@@ -14,6 +14,7 @@ My projects repositories are:
 
 - **SPC Chart:** This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-chart-/)** 
 - **Deep Learning:** This repository contains my practice python code for machine learning and deep learning. Please find the repository **[here](http://sumit-ai.me/Deep-Learning-/)** 
+<img align="center" src="https://aiplatformsprodstoragecdn.azureedge.net/aiplatformassets/knovuecdl43j/5PeSXkLHryOa8Cmc22Yk2a/1f97b68905bee42202a4364b812c49ad/1.1_NN_Diagram.gif"  width="150" />  
 - **MIT: Machine Learning with Python-From Linear Models to Deep Learning** This repository contains MIT calss projects that i completed while i was taking online classes from MIT at EDX. Please find the repository **[here](http://sumit-ai.me/Deep-Learning-/)** 
 
 ### Research Papers
