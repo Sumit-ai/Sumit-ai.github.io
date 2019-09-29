@@ -26,7 +26,7 @@ This repository contains my practice python code for machine learning and deep l
 <img align="center" src="https://aiplatformsprodstoragecdn.azureedge.net/aiplatformassets/knovuecdl43j/5PeSXkLHryOa8Cmc22Yk2a/1f97b68905bee42202a4364b812c49ad/1.1_NN_Diagram.gif"  width="350" />  
 
 ### MIT deep learing projects: 
-Machine Learning with Python-From Linear Models to Deep Learning** This repository contains MIT class projects that i completed while i was taking online classes from MIT at EDX. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** 
+This repository contains MIT class projects that i completed while i was taking online classes in Deep Learning from MIT at EDX. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** 
 
 
 -----------------------------
