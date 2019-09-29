@@ -15,6 +15,9 @@ My projects repositories are:
 <img align="center" src="m.gif"  width="350" />   
 
 - **SPC Chart:** This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-chart-/)** 
+
+<img align="center" src="gh.png"  width="350" /> 
+
 - **Deep Learning:** This repository contains my practice python code for machine learning and deep learning. Please find the repository **[here](http://sumit-ai.me/Deep-Learning-/)** 
 
 <img align="center" src="https://aiplatformsprodstoragecdn.azureedge.net/aiplatformassets/knovuecdl43j/5PeSXkLHryOa8Cmc22Yk2a/1f97b68905bee42202a4364b812c49ad/1.1_NN_Diagram.gif"  width="350" />  
