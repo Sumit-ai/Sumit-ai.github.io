@@ -31,7 +31,7 @@ This repository contains MIT class projects that i completed while i was taking 
 ### Formosa predictive maintenance project: 
 This repository contains the demo software that I am currently developing for Formosa Group in Center for Reliability Sciences and Technologies (CReST-CGU), Taiwan. Please find the demonstration software here. **[here](https://github.com/Sumit-ai/demo-software)** 
 
-
+<img align="center" src="ezgif.com-video-to-gif.gif"  width="350" />  
 
 -----------------------------
 
