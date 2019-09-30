@@ -62,7 +62,7 @@ I am following these books:
 ### Video leactures (papers):
 #### Courses:
 - **[Hinton's Course Lectures](https://www.cs.toronto.edu/~hinton/coursera_lectures.html?fbclid=IwAR1hDa1xHTljNKzsLDjpFJ8F20dWCQKwdoj-21FiIKZ1Nnncn-SzbK-EU44)**
-- **[Hinton's Course Lectures](https://www.cs.toronto.edu/~hinton/coursera_lectures.html?fbclid=IwAR1hDa1xHTljNKzsLDjpFJ8F20dWCQKwdoj-21FiIKZ1Nnncn-SzbK-EU44)**
+- **[Andrew Ng's Course Lectures](https://www.coursera.org/learn/machine-learning)**
 ### Other Readings
 - **[Deep Learning Tips and Tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks?fbclid=IwAR3ESofdMy5PTF7bnxY3KWlfKYnL5mUW4Pjn9uJplseqe7delGytN1xcPas)**
 - **[Recurrent Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks?fbclid=IwAR0XjV49cAs0MdX-kz_iR4nxHFZMXDe9eSzq6muFJdL5jesHKSAcu0Fssc8)**
