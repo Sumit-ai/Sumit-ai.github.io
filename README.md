@@ -27,6 +27,7 @@ This repository contains my MATLAB's code of Coursera's Machine Learning by Stan
 
 ### 4. MIT deep learing projects: 
 This repository contains MIT class projects that i completed while i was taking online classes in Deep Learning from MIT at EDX. Please find the repository **[here](https://github.com/Sumit-ai/MIT-course-solutions)** 
+
 <img align="center" src="temp.png"  width="350" /> 
 
 ### 5. Formosa predictive maintenance project: 
