@@ -35,6 +35,9 @@ This repository contains the demo software that I am currently developing for Fo
 
 <img align="center" src="ezgif.com-video-to-gif.gif"  width="350" />  
 
+### 6. Deep Learning Specialization projects from DeepLearning.ai: 
+This repository contains course projects that i am currently taking from DeepLearning.ai. Please find the repository **[here](https://github.com/Sumit-ai/deep-learning-ai-)**  
+
 -----------------------------
 
 ## Research Papers
