@@ -10,36 +10,36 @@
 
 ## Projects
 My projects repositories are: 
-### 1. Device simulation:
-This repository contains python simulation code for diffusion of Boron in Silicon wafer. This was my class porject please click **[here](http://sumit-ai.me/device-simulation/)** 
 
-<img align="center" src="m.gif"  width="350" />   
-
-### 2. SPC Chart:
-This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-chart-/)** 
-
-<img align="center" src="gh.png"  width="350" /> 
-
-### 3. Stanford's Machine Learning Course Projects:
+### 1. Stanford's Machine Learning Course Projects:
 This repository contains my MATLAB's code of Coursera's Machine Learning by Stanford University. This repository also contains my kaggle practice codes. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** 
 
 <img align="center" src="https://aiplatformsprodstoragecdn.azureedge.net/aiplatformassets/knovuecdl43j/5PeSXkLHryOa8Cmc22Yk2a/1f97b68905bee42202a4364b812c49ad/1.1_NN_Diagram.gif"  width="350" />  
 
-### 4. MIT deep learing projects: 
+### 2. MIT deep learing projects: 
 This repository contains MIT class projects that i completed while i was taking online classes in Deep Learning from MIT at EDX. Please find the repository **[here](https://github.com/Sumit-ai/MIT-course-solutions)** 
 
 <img align="center" src="temp.png"  width="350" /> <img align="center" src="temp1.png"  width="350" /> 
 
-### 5. Formosa predictive maintenance project: 
+### 3. Formosa predictive maintenance project: 
 This repository contains the demo software that I am currently developing for Formosa Group in Center for Reliability Sciences and Technologies (CReST-CGU), Taiwan. Please find the demonstration software here. **[here](https://github.com/Sumit-ai/demo-software)** 
 
 <img align="center" src="ezgif.com-video-to-gif.gif"  width="350" />  
 
-### 6. Deep Learning Specialization projects from DeepLearning.ai: 
+### 4. Deep Learning Specialization projects from DeepLearning.ai: 
 This repository contains course projects that i am currently taking from DeepLearning.ai. Please find the repository **[here](https://github.com/Sumit-ai/deep-learning-ai-)**  
 
 <img align="center" src="cat.png"  width="750" /> 
 
+### 5. Device simulation:
+This repository contains python simulation code for diffusion of Boron in Silicon wafer. This was my class porject please click **[here](http://sumit-ai.me/device-simulation/)** 
+
+<img align="center" src="m.gif"  width="350" />   
+
+### 6. SPC Chart:
+This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-chart-/)** 
+
+<img align="center" src="gh.png"  width="350" /> 
 -----------------------------
 
 ## Research Papers
