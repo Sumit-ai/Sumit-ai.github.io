@@ -11,7 +11,7 @@
 ## Projects
 My projects repositories are: 
 ### 1. Flu Classification:
-This repository contains my python code of Flu classification. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** (Image courtesy of Microsoft) 
+This repository contains my python code of Flu classification. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** 
 
 <img align="center" src="Pic.png"  width="350" />  
 
