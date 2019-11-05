@@ -41,7 +41,7 @@ This repository contains python simulation code for diffusion of Boron in Silico
 <img align="center" src="m.gif"  width="350" />   
 
 ### 7. SPC and EWMA Chart:
-This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-chart-/)** 
+This repository contains python code for SPC chart, this code can be found **[here](https://github.com/Sumit-ai/SPC-AND-EWMA-chart-)** 
 
 <img align="center" src="gh.png"  width="350" />  <img align="center" src="EWMA.png" width="350" />
 
