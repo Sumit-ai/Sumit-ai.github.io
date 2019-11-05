@@ -44,13 +44,16 @@ This repository contains python simulation code for diffusion of Boron in Silico
 This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-chart-/)** 
 
 <img align="center" src="gh.png"  width="350" /> 
+
 -----------------------------
 
 ## Research Projects:
 - **Pulse Oximeter for Low SpO2 Level Detection Using Discrete Time Signal Processing Algorithm:** This repository contains my oximeter research paper, information of the paper can be found **[here](https://github.com/Sumit-ai/Oximeter-paper-/tree/master)** 
 - **Optimal maintenance strategy on medical instruments used for haemodialysis process:** The  information of the paper can be found **[here](http://ein.org.pl/2019-02-17)** 
 - **Automatic Fire Initiated Braking And Alert System For Trains:** This paper demonstrates the technology that can save many lives, when a running train catches fire. The paper can be found **[here](https://ieeexplore.ieee.org/abstract/document/7306741)** 
-- **An Intelligent Terrain Profiling Embedded System for Underwater Applications:** This paper demonstrates the technology that can create the . The paper can be found **[here](https://ieeexplore.ieee.org/document/8480329)**. The Youtube video of this project can be found **[here](https://www.youtube.com/watch?v=9w5TKyjvjeo)**.   
+- **An Intelligent Terrain Profiling Embedded System for Underwater Applications:** This paper demonstrates the technology that can create the . The paper can be found **[here](https://ieeexplore.ieee.org/document/8480329)**. The Youtube video of this project can be found **[here](https://www.youtube.com/watch?v=9w5TKyjvjeo)**.  
+
+<img align="center" src="multibot.gif"  width="350" /> 
 
 -----------------------------
 
