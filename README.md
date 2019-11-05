@@ -13,7 +13,7 @@ My projects repositories are:
 ### 1. Flu Classification:
 This repository contains my python code of Flu classification. On this project I am working with Chang Gung Memorial Hospital,  Taiwan, under the supervision of Prof. Kuan-Fu Chen. Please find the repository **[here](https://github.com/Sumit-ai/Flu-analysis)** 
 
-<img align="center" src="Pic.png"  width="750" />  
+<img align="center" src="Pic.png"  width="550" />  
 
 ### 2. Stanford's Machine Learning Course Projects:
 This repository contains my MATLAB's code of Coursera's Machine Learning by Stanford University. This repository also contains my kaggle practice codes. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** (Image courtesy of Microsoft) 
@@ -39,6 +39,12 @@ This repository contains course projects that i am currently taking from DeepLea
 This repository contains python simulation code for diffusion of Boron in Silicon wafer. This was my class porject please click **[here](http://sumit-ai.me/device-simulation/)** 
 
 <img align="center" src="m.gif"  width="350" />   
+
+### 7. SPC and EWMA Chart:
+This repository contains python code for SPC chart, this code can be found **[here](https://github.com/Sumit-ai/SPC-AND-EWMA-chart-)** 
+
+<img align="center" src="gh.png"  width="350" /> <img align="center" src="EWMA.png" width="350" />
+
 
 -----------------------------
 
