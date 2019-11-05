@@ -13,7 +13,7 @@ My projects repositories are:
 ### 1. Flu Classification:
 This repository contains my python code of Flu classification. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** (Image courtesy of Microsoft) 
 
-<img align="center" src="https://aiplatformsprodstoragecdn.azureedge.net/aiplatformassets/knovuecdl43j/5PeSXkLHryOa8Cmc22Yk2a/1f97b68905bee42202a4364b812c49ad/1.1_NN_Diagram.gif"  width="350" />  
+<img align="center" src="Pic.png"  width="350" />  
 
 ### 2. Stanford's Machine Learning Course Projects:
 This repository contains my MATLAB's code of Coursera's Machine Learning by Stanford University. This repository also contains my kaggle practice codes. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** (Image courtesy of Microsoft) 
