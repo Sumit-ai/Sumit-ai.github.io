@@ -23,8 +23,7 @@ This repository contains my MATLAB's code of Coursera's Machine Learning by Stan
 ### 3. MIT deep learing projects: 
 This repository contains MIT class projects that i completed while i was taking online classes in Deep Learning from MIT at EDX. Please find the repository **[here](https://github.com/Sumit-ai/MIT-course-solutions)** 
 
-<img align="center" src="temp.png"  width="350" /> 
-<img align="center" src="temp1.png"  width="350" /> 
+<img align="center" src="temp.png"  width="350" /> <img align="center" src="temp1.png"  width="350" /> 
 
 ### 4. Formosa predictive maintenance project: 
 This repository contains the demo software that I am currently developing for Formosa Group in Center for Reliability Sciences and Technologies (CReST-CGU), Taiwan. Please find the demonstration software here. **[here](https://github.com/Sumit-ai/demo-software)** 
@@ -45,7 +44,7 @@ This repository contains python simulation code for diffusion of Boron in Silico
 This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-chart-/)** 
 
 <img align="center" src="gh.png"  width="350" />  
-<img src="EWMA.png" width="350" />
+<img align="center" src="EWMA.png" width="350" />
 
 -----------------------------
 
