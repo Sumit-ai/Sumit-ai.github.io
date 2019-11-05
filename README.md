@@ -11,7 +11,7 @@
 ## Projects
 My projects repositories are: 
 ### 1. Flu Classification:
-This repository contains my python code of Flu classification. On this project I am working with Chang Gung Memorial Hospital, under the supervision of Prof. Kuan-Fu Chen  Taiwan. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** 
+This repository contains my python code of Flu classification. On this project I am working with Chang Gung Memorial Hospital,  Taiwan, under the supervision of Prof. Kuan-Fu Chen. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** 
 
 <img align="center" src="Pic.png"  width="550" />  
 
@@ -53,7 +53,7 @@ This repository contains python code for SPC chart, this code can be found **[he
 - **Automatic Fire Initiated Braking And Alert System For Trains:** This paper demonstrates the technology that can save many lives, when a running train catches fire. The paper can be found **[here](https://ieeexplore.ieee.org/abstract/document/7306741)** 
 - **An Intelligent Terrain Profiling Embedded System for Underwater Applications:** This paper demonstrates the technology that can create the . The paper can be found **[here](https://ieeexplore.ieee.org/document/8480329)**. The Youtube video of this project can be found **[here](https://www.youtube.com/watch?v=9w5TKyjvjeo)**.  
 
-<img align="center" src="multibot.gif"  width="350" /> 
+<img align="center" src="multibot.gif"  width="550" /> 
 
 -----------------------------
 
