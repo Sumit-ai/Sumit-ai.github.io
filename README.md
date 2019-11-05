@@ -15,32 +15,32 @@ This repository contains my python code of Flu classification. Please find the r
 
 <img align="center" src="https://aiplatformsprodstoragecdn.azureedge.net/aiplatformassets/knovuecdl43j/5PeSXkLHryOa8Cmc22Yk2a/1f97b68905bee42202a4364b812c49ad/1.1_NN_Diagram.gif"  width="350" />  
 
-### 1. Stanford's Machine Learning Course Projects:
+### 2. Stanford's Machine Learning Course Projects:
 This repository contains my MATLAB's code of Coursera's Machine Learning by Stanford University. This repository also contains my kaggle practice codes. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** (Image courtesy of Microsoft) 
 
 <img align="center" src="https://aiplatformsprodstoragecdn.azureedge.net/aiplatformassets/knovuecdl43j/5PeSXkLHryOa8Cmc22Yk2a/1f97b68905bee42202a4364b812c49ad/1.1_NN_Diagram.gif"  width="350" />  
 
-### 2. MIT deep learing projects: 
+### 3. MIT deep learing projects: 
 This repository contains MIT class projects that i completed while i was taking online classes in Deep Learning from MIT at EDX. Please find the repository **[here](https://github.com/Sumit-ai/MIT-course-solutions)** 
 
 <img align="center" src="temp.png"  width="350" /> <img align="center" src="temp1.png"  width="350" /> 
 
-### 3. Formosa predictive maintenance project: 
+### 4. Formosa predictive maintenance project: 
 This repository contains the demo software that I am currently developing for Formosa Group in Center for Reliability Sciences and Technologies (CReST-CGU), Taiwan. Please find the demonstration software here. **[here](https://github.com/Sumit-ai/demo-software)** 
 
 <img align="center" src="ezgif.com-video-to-gif.gif"  width="350" />  
 
-### 4. Deep Learning Specialization projects from DeepLearning.ai: 
+### 5. Deep Learning Specialization projects from DeepLearning.ai: 
 This repository contains course projects that i am currently taking from DeepLearning.ai. Please find the repository **[here](https://github.com/Sumit-ai/deep-learning-ai-)**  
 
 <img align="center" src="cat.png"  width="750" /> 
 
-### 5. Device simulation:
+### 6. Device simulation:
 This repository contains python simulation code for diffusion of Boron in Silicon wafer. This was my class porject please click **[here](http://sumit-ai.me/device-simulation/)** 
 
 <img align="center" src="m.gif"  width="350" />   
 
-### 6. SPC Chart:
+### 7. SPC and EWMA Chart:
 This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-chart-/)** 
 
 <img align="center" src="gh.png"  width="350" /> 
