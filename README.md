@@ -13,10 +13,11 @@ This repository contains my python code of Flu classification. On this project I
 
 <img align="center" src="Pic.png"  width="550" />  
 
-### 2. Stanford's Machine Learning Course Projects:
-This repository contains my MATLAB's code of Coursera's Machine Learning by Stanford University. This repository also contains my kaggle practice codes. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** (Image courtesy of Microsoft) 
+### 2. Deep Learning Specialization projects from DeepLearning.ai: 
+This repository contains course projects that i am currently taking from DeepLearning.ai. Please find the repository **[here](https://github.com/Sumit-ai/deep-learning-ai-)**  
 
-<img align="center" src="https://aiplatformsprodstoragecdn.azureedge.net/aiplatformassets/knovuecdl43j/5PeSXkLHryOa8Cmc22Yk2a/1f97b68905bee42202a4364b812c49ad/1.1_NN_Diagram.gif"  width="350" />  
+<img align="center" src="1.png"  width="250" /> <img align="center" src="2.png"  width="250" /> <img align="center" src="12.png"  width="250" /> 
+
 
 ### 3. MIT deep learing projects: 
 This repository contains MIT class projects that i completed while i was taking online classes in Deep Learning from MIT at EDX. Please find the repository **[here](https://github.com/Sumit-ai/MIT-course-solutions)** 
@@ -28,11 +29,10 @@ This repository contains the demo software that I am currently developing for Fo
 
 <img align="center" src="ezgif.com-video-to-gif.gif"  width="350" />  
 
-### 5. Deep Learning Specialization projects from DeepLearning.ai: 
-This repository contains course projects that i am currently taking from DeepLearning.ai. Please find the repository **[here](https://github.com/Sumit-ai/deep-learning-ai-)**  
+### 2. Stanford's Machine Learning Course Projects:
+This repository contains my MATLAB's code of Coursera's Machine Learning by Stanford University. This repository also contains my kaggle practice codes. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** (Image courtesy of Microsoft) 
 
-<img align="center" src="1.png"  width="250" /> <img align="center" src="2.png"  width="250" /> <img align="center" src="12.png"  width="250" /> 
-
+<img align="center" src="https://aiplatformsprodstoragecdn.azureedge.net/aiplatformassets/knovuecdl43j/5PeSXkLHryOa8Cmc22Yk2a/1f97b68905bee42202a4364b812c49ad/1.1_NN_Diagram.gif"  width="350" />  
 
 
 ### 6. Device simulation:
