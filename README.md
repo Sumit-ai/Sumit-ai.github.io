@@ -29,7 +29,7 @@ This repository contains the demo software that I am currently developing for Fo
 
 <img align="center" src="ezgif.com-video-to-gif.gif"  width="350" />  
 
-### 2. Stanford's Machine Learning Course Projects:
+### 5. Stanford's Machine Learning Course Projects:
 This repository contains my MATLAB's code of Coursera's Machine Learning by Stanford University. This repository also contains my kaggle practice codes. Please find the repository **[here](https://github.com/Sumit-ai/Deep-Learning-)** (Image courtesy of Microsoft) 
 
 <img align="center" src="https://aiplatformsprodstoragecdn.azureedge.net/aiplatformassets/knovuecdl43j/5PeSXkLHryOa8Cmc22Yk2a/1f97b68905bee42202a4364b812c49ad/1.1_NN_Diagram.gif"  width="350" />  
