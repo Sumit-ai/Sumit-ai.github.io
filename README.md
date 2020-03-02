@@ -85,4 +85,4 @@ I am following these books:
 ### Other's Resources 
 - **[ML Resources](https://sgfin.github.io/learning-resources/?fbclid=IwAR0umPazGbijWj4PsY8AM_QtDdd-Ku-xFsrAscSxMxHgvgRHInrhoCE26lU)**
 
-[Back to the top](#Projects)
+[Back to the top](#projects)
