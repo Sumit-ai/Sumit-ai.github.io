@@ -47,7 +47,7 @@ This repository contains python code for SPC chart, this code can be found **[he
 
 ### 8. Time Series Forcasting using ARIMA: 
 
-<img align="center" src="Download.PNG" width="350" />
+<img align="center" src="download.png" width="350" />
 -----------------------------
 
 ## Research Projects:
