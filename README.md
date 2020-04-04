@@ -45,7 +45,9 @@ This repository contains python code for SPC chart, this code can be found **[he
 
 <img align="center" src="gh.png"  width="350" /> <img align="center" src="EWMA.png" width="350" />
 
+### 8. Time Series Forcasting using ARIMA: 
 
+<img align="center" src="gh.png"  width="350" /> <img align="center" src="Download.png" width="350" />
 -----------------------------
 
 ## Research Projects:
