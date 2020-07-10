@@ -19,8 +19,8 @@ This repository contains course projects that i am currently taking from DeepLea
 <img align="center" src="1.png"  width="250" /> <img align="center" src="2.png"  width="250" /> <img align="center" src="12.png"  width="250" /> 
 
 
-### 3. MIT deep learing projects: 
-This repository contains MIT class projects that i completed while i was taking online classes in Deep Learning from MIT at EDX. Please find the repository **[here](https://github.com/Sumit-ai/MIT-course-solutions)** 
+### 3. COVID-19 Pneumonia Claasification: 
+This repository contains my COVID-19-pneumonia Claasification, I worked on this project after taking lectures from Fas.ai. Please find the repository **[here](http://sumit-ai.me/COVID-19-pneumonia-claasification/)** 
 
 <img align="center" src="temp.png"  width="350" /> <img align="center" src="temp1.png"  width="350" /> 
 
