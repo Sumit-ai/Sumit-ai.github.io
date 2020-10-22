@@ -22,7 +22,7 @@ This repository contains course projects that i am currently taking from DeepLea
 
 
 ### 3. COVID-19 Pneumonia Claasification: 
-This repository contains my COVID-19-pneumonia Claasification, I worked on this project after taking lectures from Fas.ai. Please find the repository **[here](http://sumit-ai.me/COVID-19-pneumonia-claasification/)** 
+This repository contains the code that performs classification on Penumonia (due to bacteria and virus( including COVID-19 virus)) affected X-ray images and Normal X-ray images. Please find the repository **[here](http://sumit-ai.me/COVID-19-pneumonia-claasification/)** 
 
 <img align="center" src="temp.png"  width="350" /> <img align="center" src="temp1.png"  width="350" /> 
 
