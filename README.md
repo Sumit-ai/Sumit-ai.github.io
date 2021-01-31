@@ -69,15 +69,5 @@ This repository contains python code for ime Series Forcasting using ARIMA, this
 
 <img align="center" src="multibot.gif"  width="550" /> 
 
------------------------------
-
-## Readings
-### Research papers:
-- **NRI and IDI research papers:**
-1. [Statistical methods for assessment of added usefulness of new biomarkers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3155999/)
-2. [Net Reclassification Index and Integrated Discrimination Index Are Not Appropriate for Testing Whether a Biomarker Improves Predictive Performance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5837334/)
-3. [The Net Reclassification Index (NRI): a Misleading Measure of Prediction Improvement Even with Independent Test Data Sets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4615606/)
-4. [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://www.nature.com/articles/s41591-018-0268-3?fbclid=IwAR25OxADckLguuc9a71Kodi9Aj6T13UR-KJkvUkSsvUcmIiAmoaHWO_Hs58)
-
 
 [Back to the top](#projects)
