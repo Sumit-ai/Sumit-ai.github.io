@@ -15,7 +15,7 @@ This repository contains my python code of Flu classification. On this project I
 
 <img align="center" src="Pic.png"  width="550" />  
 
-### 2. Aeorta Detection using Pix2Pix GAN: 
+### 2. Aorta Detection using Pix2Pix GAN: 
 In This research project, we completed these steps:
 
 - Collected total 785 Ultra-Sound images from multiple subjects.
@@ -23,9 +23,9 @@ In This research project, we completed these steps:
 - Pre-process (Normalize and resize) the images.
 - train and validate the model over multiple machine-learning and deep-learning based algorithm including .
 
-Please find the repository **[here](https://github.com/Sumit-ai/Aeorta-Detection-using-Pix2Pix-GAN)**  
+Please find the repository **[here](https://github.com/Sumit-ai/Aorta-Detection-using-Pix2Pix-GAN)**  
 
-<img align="center" src="https://github.com/Sumit-ai/Aeorta-Detection-using-Pix2Pix-GAN/blob/main/ezgif.com-gif-maker%20(1).gif"  width="700" />  
+<img align="center" src="https://github.com/Sumit-ai/Aorta-Detection-using-Pix2Pix-GAN/blob/main/ezgif.com-gif-maker%20(1).gif"  width="700" />  
 
 
 ### 3. COVID-19 Pneumonia Claasification: 
