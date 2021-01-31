@@ -15,10 +15,17 @@ This repository contains my python code of Flu classification. On this project I
 
 <img align="center" src="Pic.png"  width="550" />  
 
-### 2. Deep Learning Specialization projects from DeepLearning.ai: 
-This repository contains course projects that i am currently taking from DeepLearning.ai. Please find the repository **[here](https://github.com/Sumit-ai/deep-learning-ai-)**  
+### 2. Aeorta Detection using Pix2Pix GAN: 
+In This research project, we completed these steps:
 
-<img align="center" src="1.png"  width="250" /> <img align="center" src="2.png"  width="250" /> <img align="center" src="12.png"  width="250" /> 
+- Collected total 785 Ultra-Sound images from multiple subjects.
+- Labeled and prepare segmentation the images under expert supervision.
+- Pre-process (Normalize and resize) the images.
+- train and validate the model over multiple machine-learning and deep-learning based algorithm including .
+
+Please find the repository **[here](https://github.com/Sumit-ai/Aeorta-Detection-using-Pix2Pix-GAN)**  
+
+<img align="center" src="https://github.com/Sumit-ai/Aeorta-Detection-using-Pix2Pix-GAN/blob/main/ezgif.com-gif-maker%20(1).gif"  width="250" />  
 
 
 ### 3. COVID-19 Pneumonia Claasification: 
