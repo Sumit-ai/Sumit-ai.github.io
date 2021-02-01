@@ -25,7 +25,7 @@ In This research project, we completed these steps:
 
 Please find the repository **[here](https://github.com/Sumit-ai/Aorta-Detection-using-Pix2Pix-GAN)**  
 
-<img align="center" src="https://github.com/Sumit-ai/Aorta-Detection-using-Pix2Pix-GAN/blob/main/ezgif.com-gif-maker%20(1).gif"  width="700" />  
+<img align="center" src="ezgif.com-gif-maker%20(1).gif"  width="700" />  
 
 
 ### 3. COVID-19 Pneumonia Claasification: 
