@@ -23,7 +23,7 @@ In This research project, we completed these steps:
 - Pre-process (Normalize and resize) the images.
 - train and validate the model over multiple machine-learning and deep-learning based algorithm including .
 
-Please find the repository **[here](https://github.com/Sumit-ai/Aorta-Detection-using-Pix2Pix-GAN)**  
+Please find the repository **[here](http://sumit-ai.me/Aorta-Detection-using-Pix2Pix-GAN/)**  
 
 <img align="center" src="ezgif.com-gif-maker%20(1).gif"  width="700" />  
 
@@ -50,7 +50,7 @@ This repository contains python simulation code for diffusion of Boron in Silico
 <img align="center" src="m.gif"  width="350" />   
 
 ### 7. SPC and EWMA Chart:
-This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-AND-EWMA-chart-/)** 
+This repository contains python code for SPC chart, this code can be found **[here](http://sumit-ai.me/SPC-AND-EWMA-chart/)** 
 
 <img align="center" src="gh.png"  width="350" /> <img align="center" src="EWMA.png" width="350" />
 
