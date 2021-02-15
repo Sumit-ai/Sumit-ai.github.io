@@ -61,7 +61,7 @@ This repository contains python code for ime Series Forcasting using ARIMA, this
 
 -----------------------------
 
-## Research Projects:
+## Research Papers:
 - **Pulse Oximeter for Low SpO2 Level Detection Using Discrete Time Signal Processing Algorithm:** This repository contains my oximeter research paper, information of the paper can be found **[here](https://github.com/Sumit-ai/Oximeter-paper-/tree/master)** 
 - **Optimal maintenance strategy on medical instruments used for haemodialysis process:** The  information of the paper can be found **[here](http://ein.org.pl/2019-02-17)** 
 - **Automatic Fire Initiated Braking And Alert System For Trains:** This paper demonstrates the technology that can save many lives, when a running train catches fire. The paper can be found **[here](https://ieeexplore.ieee.org/abstract/document/7306741)** 
@@ -69,5 +69,6 @@ This repository contains python code for ime Series Forcasting using ARIMA, this
 
 <img align="center" src="multibot.gif"  width="550" /> 
 
+## [Course](http://sumit-ai.me/deep-web-course-website/)
 
 [Back to the top](#projects)
